@@ -1,0 +1,22 @@
+.server_main_offer
+{
+
+  
+    display: flex;
+    margin-top: 20px;
+   
+}
+.server_main_offer img
+{
+
+   height: 30px;
+   width: 30px;
+   
+}
+.server_main_offer p
+{
+
+  font-size: 18px;
+  margin-left: 15px;
+   
+}
